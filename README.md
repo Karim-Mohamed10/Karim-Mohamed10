@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Karim-Mohamed10/Karim-Mohamed10/output/snake.svg" alt="Snake animation" />
+
 
 ###
